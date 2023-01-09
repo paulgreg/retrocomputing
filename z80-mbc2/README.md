@@ -4,7 +4,8 @@
 
 ## xmodem
 
-launch xmodem only from a: (configuraiton in same dir)
+Beware, launch xmodem only from a: (configuration file is on A:)
+
 
 
 ## pigfx
